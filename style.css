@@ -260,7 +260,7 @@ img { display: block; max-width: 100%; }
   }
 
   .rings-icon { width: 88px; }
-  .event-date { font-size: clamp(1.73rem, 5.28vw, 2.5rem); letter-spacing: 0; }
+  .event-date { font-size: clamp(1.43rem, 5.28vw, 2.5rem); letter-spacing: 0; }
 
   /* Countdown */
   .countdown { padding: 44px 16px; }

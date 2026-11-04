@@ -452,7 +452,6 @@ img { display: block; max-width: 100%; }
     flex-direction: column;
     gap: 32px;
   }
-  .families__sep { transform: rotate(90deg); }
   .family-card { max-width: 100%; }
 }
 
